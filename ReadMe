@@ -1,0 +1,16 @@
+Project Title & Description: COFFEE SALES DASHBOARD : Clean, Analyse and coffee sales data. Create an interactive dashboard to highlight sales trends.
+Main insights: Sales trend over time, Check sales trend for specific time period using dashboard timeline filter.
+Check trends based: 1. Size of coffee package, Country, and type of customers(loyal or not).
+Skills used/learned: Nested IF
+Data Cleaning:
+Formating
+Xlookup
+Index Match
+Data visualization:
+Pivot Tables
+Slices
+Timeline 
+Charts
+Chart Formating
+
+Make use of all the filters in dashboard to understand trends in sales.
