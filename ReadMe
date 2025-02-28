@@ -1,16 +1,37 @@
-Project Title & Description: COFFEE SALES DASHBOARD : Clean, Analyse and coffee sales data. Create an interactive dashboard to highlight sales trends.
-Main insights: Sales trend over time, Check sales trend for specific time period using dashboard timeline filter.
-Check trends based: 1. Size of coffee package, Country, and type of customers(loyal or not).
-Skills used/learned: Nested IF
-Data Cleaning:
-Formating
-Xlookup
-Index Match
-Data visualization:
-Pivot Tables
-Slices
-Timeline 
-Charts
-Chart Formating
+# Excel Sales Dashboard 
+ 
+COFFEE SALES DASHBOARD 
 
-Make use of all the filters in dashboard to understand trends in sales.
+## 📌 Project Overview :
+This Excel dashboard provides sales insights, visualizing key metrics like total revenue, 
+sales trends over time,region-wise performance and top customer metrics.
+
+## 🚀 Features
+✔ Sales trend analysis using Pivot Tables  
+✔ Interactive charts for region-wise, Customer type, and coffee type wise performance  
+✔ Dynamic filtering with slicers
+
+## 🛠 Tools & Skills Used:
+
+- Nested IF
+- Data Cleaning:
+- Formating
+- Xlookup
+- Index Match
+- Data visualization:
+- Pivot Tables
+- Slicers
+- Timeline 
+- Charts
+- Chart Formating
+
+## 📸 Dashboard Preview  
+![Dashboard Screenshot](dashboard-image.png) 
+
+## 📂 Files Included  
+- `Sales-Dashboard.xlsx` – The main dashboard and data.
+
+## 📥 How to Use  
+1. Download the **Excel file**.  
+2. Open in **Microsoft Excel (2016 or later)**.  
+3. Use slicers/filters to explore insights!
